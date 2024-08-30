@@ -1,1 +1,2 @@
-[# drum-kit](https://miyaadjoy.github.io/drum-kit/)
+# Drum Kit
+https://miyaadjoy.github.io/drum-kit/
